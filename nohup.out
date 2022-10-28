@@ -1,0 +1,169 @@
+ * Serving Flask app "server" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://10.0.16.17:40500/ (Press CTRL+C to quit)
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 565-888-514
+/data/lark/server.py:72: DeprecationWarning: The 'warn' function is deprecated, use 'warning' instead
+  logging.warn("Other types of messages have not been processed yet")
+WARNING:root:Other types of messages have not been processed yet
+123.58.10.239 - - [28/Oct/2022 21:55:28] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:123.58.10.239 - - [28/Oct/2022 21:55:28] "POST / HTTP/1.1" 200 -
+123.58.10.239 - - [28/Oct/2022 21:56:23] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:123.58.10.239 - - [28/Oct/2022 21:56:23] "POST / HTTP/1.1" 200 -
+ * Detected change in '/data/lark/1.py', reloading
+INFO:werkzeug: * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+INFO:werkzeug: * Detected change in '/data/lark/1.py', reloading
+【美国经济走出"技术性衰退"】美国商务部公布的最新数据显示示,三季度美国GDP按年率计算增长2.6%,这是按季度算美国GDP今年首次增长,也高于市场预期,意意味着美国经济已经摆脱了"技术型衰退"。
+{"text":"0"}
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 684-446-321
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 102-233-004
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 412-264-642
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 126-185-420
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 946-214-249
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 746-237-071
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 596-300-854
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 358-234-264
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 882-908-285
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 102-236-811
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 113-480-374
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 153-534-903
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 111-642-399
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 482-875-452
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 129-719-827
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 782-852-620
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 434-951-323
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 135-574-093
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 470-857-455
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 908-716-510
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 906-393-495
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Detected change in '/data/lark/1.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 642-402-084
+ * Detected change in '/data/lark/server.py', reloading
+ * Detected change in '/data/lark/server.py', reloading
+ * Restarting with watchdog (inotify)
+ * Debugger is active!
+ * Debugger PIN: 107-215-197
+ * Detected change in '/data/lark/server.py', reloading
+ * Detected change in '/data/lark/server.py', reloading
+ * Detected change in '/data/lark/server.py', reloading
+ * Restarting with watchdog (inotify)
+  File "/data/lark/server.py", line 45
+    @event_manager.register("im.message.receive_v1")
+    ^
+IndentationError: expected an indented block
